@@ -1,6 +1,2 @@
 test1 = input()
 print(test1.lower())
-test2 = input()
-print(test2.lower())
-test3 = input()
-print(test3)
